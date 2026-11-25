@@ -13,6 +13,10 @@ I build and run production cloud infrastructure end to end: AWS accounts and net
 - 🐧 **Linux** — Ubuntu / CentOS administration, hardening, OpenVPN, access management
 - 🌱 **Learning** — Kubernetes, Python automation, and AI-assisted engineering workflows
 
+### Featured project
+
+**[devops-observability-stack](https://github.com/joyjeetchakraborty/devops-observability-stack)** — a Docker Compose observability stack with Prometheus, Grafana, Loki and exporters for metrics, logs and alerting.
+
 ### Tech
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
